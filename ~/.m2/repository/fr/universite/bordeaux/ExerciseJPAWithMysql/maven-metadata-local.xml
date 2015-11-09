@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>fr.universite.bordeaux</groupId>
+  <artifactId>ExerciseJPAWithMysql</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20151108234400</lastUpdated>
+  </versioning>
+</metadata>
